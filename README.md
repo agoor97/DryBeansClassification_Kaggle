@@ -7,3 +7,4 @@
 #### The evaluation metric for this competition is accuracy which is calculated as follows.
 
 ##### :heavy_check_mark: check competition link on Kaggle: https://www.kaggle.com/c/dry-beans-classification-iti-ai-pro-intake01/overview/evaluation
+
