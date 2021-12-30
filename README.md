@@ -6,5 +6,5 @@
 #### There are 7 bean types in this dataset.
 #### The evaluation metric for this competition is accuracy.
 
-##### :heavy_check_mark: check competition link on Kaggle: [Link](https://www.kaggle.com/c/dry-beans-classification-iti-ai-pro-intake01/overview/evaluation
-)
+##### :heavy_check_mark: check competition link on Kaggle: 
+[Link](https://www.kaggle.com/c/dry-beans-classification-iti-ai-pro-intake01/overview/evaluation)
